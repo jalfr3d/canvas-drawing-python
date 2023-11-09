@@ -57,3 +57,7 @@ Before using this program, ensure you have the following:
 - Feel free to extend the program with additional features, such as different shapes, colors, or saving options, to suit your specific needs.
 
 That's it! Use the Canvas Drawing Program to create and save your own custom drawings and explore the world of digital art with code.
+
+## License
+
+This project is licensed under the MIT License. You are free to use and modify the code for your own purposes.
